@@ -1,5 +1,6 @@
 # Netflix TV Shows & Movies Analysis
 
+
 ## Introduction
 This Python data analysis project focuses on exploring and understanding a Netflix dataset containing information about TV shows and movies available on Netflix until 2021. The dataset was obtained from Flixable, a third-party Netflix search engine, and is freely accessible on Kaggle. The primary goal of this analysis is to gain insights into the content available on Netflix, such as the distribution of shows and movies across different categories, release years, and countries.
 
